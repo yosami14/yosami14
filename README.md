@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 📫 How to reach me **yosami14@gmail.com**
+- 📫 How to reach me **samuelyohannesa@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
