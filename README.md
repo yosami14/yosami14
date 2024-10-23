@@ -2,6 +2,8 @@
 <h3 align="center">A passionate Full Stack developer from Ethiopia, Addis Ababa</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yosami14" alt="yosami14" /></a> </p>
+
+- 👩🏻‍🎓 Studied **computer science** at the American College of Technology
   
 - 🔭 I’m currently working on **Techsync**
 
